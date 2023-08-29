@@ -1,0 +1,8 @@
+COMANDOS ANGULAR
+
+CRIAR COMPONENTE --> ng generate component <nome arquivo>
+ng new roteamento --> gerar pasta de roteamento
+
+npm i @angular/router --> Instalar biblioteca de roteamento do angular
+
+crtl + shift + P --> recarregar página VSCODE
